@@ -1,4 +1,4 @@
-First Line edited by Teamlead
-Second Line
-Team Lead Third Line
+Created a new local branch out of Remote Branch
+Switched to the newly created local Branch
+Edited the file a.txt
 
