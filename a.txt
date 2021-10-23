@@ -1,4 +1,3 @@
-First Line new addition
-Second Line
-Prabu Third Line
-
+Created a new local branch out of Remote Branch
+Switched to the newly created local Branch
+Edited the file a.txt
